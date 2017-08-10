@@ -1,4 +1,4 @@
-Git is a version control system.
+Git status.
 Git is free software.
 
 i add some contents.
